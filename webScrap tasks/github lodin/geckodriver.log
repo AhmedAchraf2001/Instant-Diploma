@@ -1,0 +1,232 @@
+1639177433395	geckodriver	INFO	Listening on 127.0.0.1:56177
+1639177436859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56178" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileeMuYWz"
+1639177441644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileeMuYWz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56178/devtools/browser/b7d24ca1-a108-4d64-981a-8ad5f24bde5c
+1639177469049	Marionette	INFO	Listening on port 56183
+1639177469808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iVNN4/y7/l/ar_AR/7PVa4nQD4a0.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639177542212	Marionette	INFO	Stopped listening on port 56183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639178750095	geckodriver	INFO	Listening on 127.0.0.1:56518
+1639178753044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56519" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileZ8g00R"
+1639178760072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileZ8g00R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56519/devtools/browser/04a86b3c-91da-4fff-933b-eb010423d5ab
+1639178786823	Marionette	INFO	Listening on port 56524
+1639178787107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/y7/l/ar_AR/7PVa4nQD4a0.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iL-Z4/yH/l/ar_AR/rZCbBkV7DFC.js?_nc_x=SHq-_q5SZxV&_nc_eui2=AeHAPd-H76L2YGeeI128aN9fg-2fHG6ckYWD7Z8cbpyRhVGtgdVLUAuG71SpsgVme_xXcdJA7dMLXu1wVDZoG2fP, line 170: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/y7/l/ar_AR/7PVa4nQD4a0.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639178840737	Marionette	INFO	Stopped listening on port 56524
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639178867169	geckodriver	INFO	Listening on 127.0.0.1:56613
+1639178870166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56614" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileptZ9Cc"
+1639178873104	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1335: uncaught exception: undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileptZ9Cc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56614/devtools/browser/5407c13b-65a7-44cc-a124-77629b53dacc
+1639178884877	Marionette	INFO	Listening on port 56619
+1639178884976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1639178967287	Marionette	INFO	Stopped listening on port 56619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639179022595	geckodriver	INFO	Listening on 127.0.0.1:56652
+1639179025645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56653" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileYdZnFm"
+1639179028199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileYdZnFm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56653/devtools/browser/a07d7dbd-6300-4b5a-bf1c-f71914e94541
+1639179042296	Marionette	INFO	Listening on port 56658
+1639179042717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/y7/l/ar_AR/7PVa4nQD4a0.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iL-Z4/yH/l/ar_AR/rZCbBkV7DFC.js?_nc_x=SHq-_q5SZxV&_nc_eui2=AeHAPd-H76L2YGeeI128aN9fg-2fHG6ckYWD7Z8cbpyRhVGtgdVLUAuG71SpsgVme_xXcdJA7dMLXu1wVDZoG2fP, line 170: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639179103410	Marionette	INFO	Stopped listening on port 56658
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1639211356618	geckodriver	INFO	Listening on 127.0.0.1:57678
+1639211359974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57679" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileCeoObf"
+1639211365028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileCeoObf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57679/devtools/browser/266b50b4-502b-4fa0-a6cc-17a7b99656c3
+1639211388783	Marionette	INFO	Listening on port 57684
+1639211389741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/yS/l/ar_AR/1K7DqLHIfTz.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639211453543	Marionette	INFO	Stopped listening on port 57684
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1639211502252	geckodriver	INFO	Listening on 127.0.0.1:57768
+1639211505001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57769" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileaUZQo8"
+1639211508062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileaUZQo8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57769/devtools/browser/aa6ab73a-db4f-4275-a82c-571727fd50b8
+1639211538749	Marionette	INFO	Listening on port 57774
+1639211539314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/yS/l/ar_AR/1K7DqLHIfTz.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iL-Z4/yW/l/ar_AR/dpxtUlsDnBl.js?_nc_x=SHq-_q5SZxV&_nc_eui2=AeH-8jt_NF_ngjC-BrEhAhrUVfoN0XkjuBpV-g3ReSO4GmJ7rZGyTPWoN_MSjnCl3v0PW9UnDrUGm6qANOteqd43, line 170: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639212163045	Marionette	INFO	Stopped listening on port 57774
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error:JavaScript error: resource:///modules/BrowserGlue.jsm, line 1335: uncaught exception: undefined
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofilezsdnoB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57926/devtools/browser/e5cc50e1-1616-4bd1-be37-40b07a67b144
+1639212179345	Marionette	INFO	Listening on port 57931
+1639212180342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/yS/l/ar_AR/1K7DqLHIfTz.js?_nc_x=Ij3Wp8lg5Kz, line 20: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iVNN4/yS/l/ar_AR/1K7DqLHIfTz.js?_nc_x=Ij3Wp8lg5Kz, line 20: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iL-Z4/yW/l/ar_AR/dpxtUlsDnBl.js?_nc_x=SHq-_q5SZxV&_nc_eui2=AeH-8jt_NF_ngjC-BrEhAhrUVfoN0XkjuBpV-g3ReSO4GmJ7rZGyTPWoN_MSjnCl3v0PW9UnDrUGm6qANOteqd43, line 170: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iL-Z4/yW/l/ar_AR/dpxtUlsDnBl.js?_nc_x=SHq-_q5SZxV&_nc_eui2=AeH-8jt_NF_ngjC-BrEhAhrUVfoN0XkjuBpV-g3ReSO4GmJ7rZGyTPWoN_MSjnCl3v0PW9UnDrUGm6qANOteqd43, line 170: Failed to create WebGL context: WebGL is currently disabled.
+1639212630113	Marionette	INFO	Stopped listening on port 57931
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639214549678	geckodriver	INFO	Listening on 127.0.0.1:58360
+1639214553052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58361" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofilei7wZXY"
+1639214572667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofilei7wZXY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58361/devtools/browser/39efe513-9584-4992-bdf6-dd7f91b80fc2
+1639214641746	Marionette	INFO	Listening on port 58366
+1639214927118	Marionette	INFO	Stopped listening on port 58366
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 950: Error: Connection is not open.
+1639214986903	geckodriver	INFO	Listening on 127.0.0.1:58449
+1639214990142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58450" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofile0SLnch"
+1639214996776	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1335: uncaught exception: undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofile0SLnch\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58450/devtools/browser/964eb525-53fc-44b6-b254-9c149ccd065c
+1639215014855	Marionette	INFO	Listening on port 58455
+1639215016001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL is currently disabled.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1639215099158	Marionette	INFO	Stopped listening on port 58455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1639215401651	geckodriver	INFO	Listening on 127.0.0.1:58520
+1639215404757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58521" "-no-remote" "-profile" "C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileNW0gYR"
+1639215419352	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1335: uncaught exception: undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hikal\\AppData\\Local\\Temp\\rust_mozprofileNW0gYR\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58521/devtools/browser/e1793a4a-36e4-4768-9209-4668c81df88e
+1639215452148	Marionette	INFO	Listening on port 58526
+1639215453622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 3327: Failed to create WebGL context: WebGL is currently disabled.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1639215510337	Marionette	INFO	Stopped listening on port 58526
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  3
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

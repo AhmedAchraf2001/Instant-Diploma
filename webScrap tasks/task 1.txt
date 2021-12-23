@@ -1,0 +1,9 @@
+5 Sites for dataSets.
+- UCI Machine Learning Repository
+- OpenML
+- DataHub
+- IMF Data
+- ImageNet
+- Enron Email Dataset
+- VoxForge
+

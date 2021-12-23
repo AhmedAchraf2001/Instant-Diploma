@@ -1,0 +1,8 @@
+lib give it video link then it download it
+python lib name is : pytube 
+code is :
+        
+	from pytube import YouTube
+	yt = YouTube("https://www.youtube.com/watch?v=F0QA6xKShq8")
+	yt = yt.streams.filter(file_extension='mp4')
+	yt.download('E:/')

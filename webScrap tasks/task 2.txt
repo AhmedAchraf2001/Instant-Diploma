@@ -1,0 +1,2 @@
+How to download specific version of python package?
+conda command line is : conda install pkgName=version
