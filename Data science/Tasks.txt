@@ -1,0 +1,37 @@
+what is the power query?
+it is tool used to filtering and analysis the data found in excel 2010 and later
+
+how to combine more than 2 dataframe?
+we can do so by opening list like: 
+concatedDF = pd.concat([df1,df2,df3])
+
+how to replace value in specific raw?
+we can do that by many ways like using loc function, indexing or sclicing
+
+
+when we convert from nosql to sql?
+1.You’re working with complex queries and reports.
+With SQL you can build one script that retrieves and presents your data. NoSQL doesn’t support relations between data types. Running queries in NoSQL is doable, but much slower.
+
+2.You have a high transaction application.
+SQL databases are a better fit for heavy duty or complex transactions because it’s more stable and ensure data integrity.
+
+3.You need to ensure ACID compliance.
+(Atomicity, Consistency, Isolation, Durability) or defining exactly how transactions interact with a database. 
+
+4.You don’t anticipate a lot of changes or growth.
+If you’re not working with a large volume of data or many data types, NoSQL would be overkill.
+
+5.how to read mongodb data in pandas?
+The PyMongo library allows interaction with the MongoDB database through Python
+
+
+live data websites
+there are many websites provid live data like :
+1.Internet Live Stats. 
+2.GIF Hell. 
+3.Emoji Tracker. 
+4.The Pirate Cinema. 
+5.Google Trends Visualizer. 
+6.Tweeplers.
+
